@@ -1,0 +1,29 @@
+
+
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.title{
+    font-family: 'Poppins', sans-serif;
+    cursor: pointer;
+    font-size: 8vw; /*takes 80% of the width of the page*/
+}
+
+.divider{
+    margin:10px;
+    width: 100%;
+    background-color: grey;
+}
+
+
+
+
